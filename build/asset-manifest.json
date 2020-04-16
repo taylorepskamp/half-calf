@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/halfcaff/static/css/main.abc634bf.chunk.css",
+    "main.js": "/halfcaff/static/js/main.3e59a447.chunk.js",
+    "main.js.map": "/halfcaff/static/js/main.3e59a447.chunk.js.map",
+    "runtime~main.js": "/halfcaff/static/js/runtime~main.afcad825.js",
+    "runtime~main.js.map": "/halfcaff/static/js/runtime~main.afcad825.js.map",
+    "xlsx.js": "/halfcaff/static/js/xlsx.4b73a949.chunk.js",
+    "xlsx.js.map": "/halfcaff/static/js/xlsx.4b73a949.chunk.js.map",
+    "static/css/3.d8d11860.chunk.css": "/halfcaff/static/css/3.d8d11860.chunk.css",
+    "static/js/3.4b0bcad0.chunk.js": "/halfcaff/static/js/3.4b0bcad0.chunk.js",
+    "static/js/3.4b0bcad0.chunk.js.map": "/halfcaff/static/js/3.4b0bcad0.chunk.js.map",
+    "static/js/4.4648ec06.chunk.js": "/halfcaff/static/js/4.4648ec06.chunk.js",
+    "static/js/4.4648ec06.chunk.js.map": "/halfcaff/static/js/4.4648ec06.chunk.js.map",
+    "static/js/5.97f24584.chunk.js": "/halfcaff/static/js/5.97f24584.chunk.js",
+    "static/js/5.97f24584.chunk.js.map": "/halfcaff/static/js/5.97f24584.chunk.js.map",
+    "static/js/6.9272bc0b.chunk.js": "/halfcaff/static/js/6.9272bc0b.chunk.js",
+    "static/js/6.9272bc0b.chunk.js.map": "/halfcaff/static/js/6.9272bc0b.chunk.js.map",
+    "index.html": "/halfcaff/index.html",
+    "precache-manifest.54d0573a93005bbee17a4ecc230d22b7.js": "/halfcaff/precache-manifest.54d0573a93005bbee17a4ecc230d22b7.js",
+    "service-worker.js": "/halfcaff/service-worker.js",
+    "static/css/3.d8d11860.chunk.css.map": "/halfcaff/static/css/3.d8d11860.chunk.css.map",
+    "static/css/main.abc634bf.chunk.css.map": "/halfcaff/static/css/main.abc634bf.chunk.css.map",
+    "static/media/index.scss": "/halfcaff/static/media/slick.f97e3bbf.svg"
+  }
+}
