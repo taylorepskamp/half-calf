@@ -156,10 +156,10 @@
         }
 
         @media #{$sm-layout} {
-            padding-left: 30px;
-            padding-right: 30px;
-            padding-top: 10px;
-            padding-bottom: 10px;
+            padding-left: 40px;
+            padding-right: 40px;
+            padding-top: 20px;
+            padding-bottom: 20px;
         }
 
         .header-wrapper{
@@ -291,6 +291,9 @@
                     width: auto !important;
                     @media #{$large-mobile} {
                         height: auto;
+                    }
+                    @media #{$small-mobile} {
+                        height: 50px;
                     }
                 }
             }
@@ -560,7 +563,7 @@
                 a{
                     img {
                         @media #{$md-layout} {
-                            width: auto;
+                            width: 10px;
                         }
                         @media #{$sm-layout} {
                             width: auto;
