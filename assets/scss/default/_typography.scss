@@ -19,7 +19,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	font-family: $body-font;
-	color: $body-color;
+	color: #808080;
 	font-weight: 400;
 }
 
@@ -192,7 +192,7 @@ textarea {
 	background: transparent;
 	border: 1px solid $border-color;
 	transition: all 0.4s ease-out 0s;
-	color: $body-color;
+	color: $heading-color;
 	&:focus,
 	&:active {
 		outline: none;
