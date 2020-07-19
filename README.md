@@ -12,7 +12,7 @@ After reading Why We Sleep, I was shocked to learn that a coffee in the morning 
 
 ## Challenges
 
-- Implementing am charts and triggering a refresh with state
+- Implementing/customizing am charts and refreshing the graph with state changes
 - Updating the calculations with each addition to caffeine list
 - Working with bootstrap for the first time
 
